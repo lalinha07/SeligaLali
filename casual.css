@@ -1,0 +1,73 @@
+header{
+background-color: #ae8f76;
+padding: 10px;
+
+}
+
+h1{
+  font-size: 60px;
+  font-family: inherit;
+  text-align: center;
+  margin: 0px;
+
+}
+
+nav{
+  text-align: center;
+}
+
+nav li{
+  display: inline-block;
+  margin: 20px;
+}
+
+nav a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+}
+
+nav a:hover{
+color:  #fffafa;
+text-decoration: underline;
+}
+
+body {
+  background:  #d2b48c;
+  margin: 0px;
+}
+
+
+.inspirações {
+  font-size: 35px ;
+  font-weight: bold;
+  text-align:center;
+  border: 6px #877363;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+}
+
+
+
+.linhaum img{
+  width: 300px;
+  height: 420px;
+  margin: 2px;
+  padding: 14px;
+}
+
+
+footer{
+text-align: center;
+background: url("tricô.jpeg");
+padding: 200px;
+margin-top: 100px;
+}
+
+.Copyright {
+color: white;
+font-size: 13px;
+}

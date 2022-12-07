@@ -1,0 +1,80 @@
+header{
+background-color: #ae8f76;
+padding: 10px;
+
+}
+
+h1{
+  font-size: 60px;
+  font-family: inherit;
+  text-align: center;
+  margin: 0px;
+
+}
+
+nav{
+  text-align: center;
+}
+
+nav li{
+  display: inline-block;
+  margin: 20px;
+}
+
+nav a{
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+}
+
+nav a:hover{
+color:  #fffafa;
+text-decoration: underline;
+}
+
+body {
+  background:  #d2b48c;
+  margin: 0px;
+}
+
+.contato {
+color: white;
+font-size: 24px;
+font-weight: bold;
+padding-left: 75px;
+padding-top: 4px;
+}
+
+
+.contatoo {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  list-style: none;
+  padding-left: 80px;
+  padding-top: 0px;
+}
+
+
+.contatooo {
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+  padding-left: 80px;
+  padding-top: 20px;
+}
+
+footer{
+text-align: center;
+background: url("tricô.jpeg");
+padding: 200px;
+margin-top: 100px;
+}
+
+.Copyright {
+color: white;
+font-size: 13px;
+}
